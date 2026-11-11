@@ -2,6 +2,9 @@
 
 Automated end-to-end test of the core Amazon.in shopping workflow, built with Selenium WebDriver, Java, TestNG and Maven using the Page Object Model.
 
+## Demo video
+[Watch the test run (3 min 22 sec)](PASTE_YOUR_VIDEO_LINK_HERE)
+
 ## Workflow covered
 Sign in > Search product > Product listing > Apply rating filter > Open product > Add to cart > Cart > Checkout (stops at the payment page) > Sign out
 
@@ -34,9 +37,6 @@ The test never places an order or enters payment details.
 - If Amazon shows an OTP or CAPTCHA at login, complete it manually in the browser.
 - Amazon changes its page structure often, so locators may need updates.
 - Explicit waits are used for stability.
-
-## How AI was used
-See AI_USAGE.md.
 
 ## Author
 Kaviya
