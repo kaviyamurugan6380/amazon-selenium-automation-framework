@@ -3,7 +3,7 @@
 Automated end-to-end test of the core Amazon.in shopping workflow, built with Selenium WebDriver, Java, TestNG and Maven using the Page Object Model.
 
 ## Demo video
-[Watch the test run (3 min 22 sec)](PASTE_YOUR_VIDEO_LINK_HERE)
+[Watch the test run (3 min 22 sec)](https://lnkd.in/p/gWX55m_5)
 
 ## Workflow covered
 Sign in > Search product > Product listing > Apply rating filter > Open product > Add to cart > Cart > Checkout (stops at the payment page) > Sign out
